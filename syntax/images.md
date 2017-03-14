@@ -4,6 +4,8 @@
 # Inline
 ![Alternative text](/path/to/img.jpg "Optional title")
 
+Je suis stupide ou tout est déjà écrit en Markdown? :o 
+
 # Reference
 ![Alternative text][id]
 [id]: url/to/image  "Optional title"

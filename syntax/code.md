@@ -5,7 +5,7 @@ Les blocs de codes pré-formatés sont utlisés pour écrire sur la programmatio
 Voici un exemple :
 
 ```
-Ceci est un bloc de code 
+	Ceci est un bloc de code 
 ```
 
 Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
